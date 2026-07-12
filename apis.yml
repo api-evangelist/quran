@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://quran.api-docs.io/
 common:
+  - type: DomainSecurity
+    url: security/quran-domain-security.yml
   - type: Website
     url: https://quran.api-docs.io/
   - type: PublicAPIsListing
