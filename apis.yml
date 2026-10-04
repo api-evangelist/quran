@@ -39,7 +39,6 @@ apis:
   - name: Quran
     description: "RESTful Quran API with multiple languages"
     humanURL: https://quran.api-docs.io/
-    baseURL: https://quran.api-docs.io/
     tags:
       - Books
     properties:
